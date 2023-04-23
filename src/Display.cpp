@@ -30,7 +30,6 @@ void	Display::init(void)
 	if (SDL_Init(SDL_INIT_VIDEO) < 0)
 		exit(0);
 
-	/* This is out of place, i have no way around */
 	if (SDL_GL_SetAttribute(SDL_GL_CONTEXT_PROFILE_MASK,
 			SDL_GL_CONTEXT_PROFILE_CORE) < 0 ||
 		SDL_GL_SetAttribute(SDL_GL_CONTEXT_MAJOR_VERSION,
@@ -40,13 +39,10 @@ void	Display::init(void)
 		SDL_GL_SetAttribute(SDL_GL_STENCIL_SIZE, 8) < 0)
 		exit(0);
 
-	/* create window */
 	if (!(this->window = SDL_CreateWindow(WIN_TITLE, WIN_POSX, WIN_POSY,
-				WIN_SIZEX, WIN_SIZEY, SDL_WINDOW_OPENGL)))
+				WIN_SIZEX, WIN_SIZEY, SDL_WINDOW_FULLSCREEN)))
 		exit(0);
 }
-
-/* ########################################################################## */
 
 static void	_push_matrix(std::vector<float> &mat_array, const Matrix &mat)
 {

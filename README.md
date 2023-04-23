@@ -36,7 +36,7 @@ Space - Move up
 Shift - Move down
 
 Left Click - Shoot
-Right Click - Widn
+Right Click - Wind
 
 1 - Spawn balls
 2 - Spawn walls

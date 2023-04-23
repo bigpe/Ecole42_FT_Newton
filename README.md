@@ -19,6 +19,35 @@ make all
 
 ### Usage
 
+Run
+
 ```shell
 ./ft_newton
+```
+
+Control
+```
+W - Move forward
+A - Move left
+D - Move Right
+S - Move backward
+
+Space - Move up
+Shift - Move down
+
+Left Click - Shoot
+Right Click - Widn
+
+1 - Spawn balls
+2 - Spawn walls
+0 - Clear all structs
+
+Y - Increase balls for shoot
+U - Increase balls size
+
+< - Decrease gravity
+> - Increase gravity
+/ - Default gravity
+
+ESC - Exit
 ```

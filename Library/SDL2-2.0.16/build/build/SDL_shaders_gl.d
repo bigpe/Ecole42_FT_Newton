@@ -1,0 +1,24 @@
+build/SDL_shaders_gl.lo: \
+  /Users/bigpe/Staff/ft_newton/Library/SDL2-2.0.16/src/render/opengl/SDL_shaders_gl.c \
+  /Users/bigpe/Staff/ft_newton/Library/SDL2-2.0.16/src/render/opengl/../../SDL_internal.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL2-2.0.16/src/render/opengl/../../dynapi/SDL_dynapi.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL2-2.0.16/src/render/opengl/../../dynapi/SDL_dynapi_overrides.h \
+  include/SDL_config.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL2-2.0.16/include/SDL_platform.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL2-2.0.16/include/begin_code.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL2-2.0.16/include/close_code.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL2-2.0.16/include/SDL_assert.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL2-2.0.16/include/SDL_config.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL2-2.0.16/include/SDL_log.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL2-2.0.16/include/SDL_stdinc.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL2-2.0.16/include/SDL_opengl.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL2-2.0.16/include/SDL_opengl_glext.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL2-2.0.16/include/SDL_video.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL2-2.0.16/include/SDL_pixels.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL2-2.0.16/include/SDL_endian.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL2-2.0.16/include/SDL_rect.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL2-2.0.16/include/SDL_error.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL2-2.0.16/include/SDL_rwops.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL2-2.0.16/include/SDL_surface.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL2-2.0.16/include/SDL_blendmode.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL2-2.0.16/src/render/opengl/SDL_shaders_gl.h

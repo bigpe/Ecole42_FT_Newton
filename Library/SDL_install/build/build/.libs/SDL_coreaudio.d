@@ -1,0 +1,33 @@
+build/SDL_coreaudio.lo: \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/audio/coreaudio/SDL_coreaudio.m \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/audio/coreaudio/../../SDL_internal.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/audio/coreaudio/../../dynapi/SDL_dynapi.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/audio/coreaudio/../../dynapi/SDL_dynapi_overrides.h \
+  include/SDL_config.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_platform.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/begin_code.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/close_code.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_assert.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_config.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_log.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_stdinc.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_audio.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_error.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_endian.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_mutex.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_thread.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_atomic.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_rwops.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_hints.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/audio/coreaudio/../SDL_audio_c.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/audio/coreaudio/../SDL_sysaudio.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/audio/coreaudio/../../SDL_dataqueue.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/audio/coreaudio/.././SDL_audio_c.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/audio/coreaudio/SDL_coreaudio.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/audio/coreaudio/../../thread/SDL_systhread.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/audio/coreaudio/../../thread/../SDL_internal.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/audio/coreaudio/../../thread/SDL_thread_c.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/audio/coreaudio/../../thread/pthread/SDL_systhread_c.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/audio/coreaudio/../../thread/pthread/../../SDL_internal.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/audio/coreaudio/../../thread/../SDL_error_c.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/audio/coreaudio/../.././SDL_internal.h

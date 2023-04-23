@@ -1,0 +1,35 @@
+build/SDL_clipboard.lo: \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/video/SDL_clipboard.c \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/video/../SDL_internal.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/video/../dynapi/SDL_dynapi.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/video/../dynapi/SDL_dynapi_overrides.h \
+  include/SDL_config.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_platform.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/begin_code.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/close_code.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_assert.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_config.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_log.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_stdinc.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_clipboard.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/video/SDL_sysvideo.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_messagebox.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_video.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_pixels.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_endian.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_rect.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_error.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_rwops.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_surface.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_blendmode.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_shape.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_thread.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_atomic.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_mutex.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_metal.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/video/SDL_vulkan_internal.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/video/./khronos/vulkan/vulkan.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/video/./khronos/vulkan/vk_platform.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/video/./khronos/vulkan/vulkan_core.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/video/./khronos/vulkan/vulkan_macos.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_vulkan.h

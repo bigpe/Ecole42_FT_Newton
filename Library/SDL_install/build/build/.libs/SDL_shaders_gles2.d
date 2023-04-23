@@ -1,0 +1,23 @@
+build/SDL_shaders_gles2.lo: \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/render/opengles2/SDL_shaders_gles2.c \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/render/opengles2/../../SDL_internal.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/render/opengles2/../../dynapi/SDL_dynapi.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/render/opengles2/../../dynapi/SDL_dynapi_overrides.h \
+  include/SDL_config.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_platform.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/begin_code.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/close_code.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_assert.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_config.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_log.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_stdinc.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_video.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_pixels.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_endian.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_rect.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_error.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_rwops.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_surface.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_blendmode.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/include/SDL_opengles2.h \
+  /Users/bigpe/Staff/ft_newton/Library/SDL_install/src/render/opengles2/SDL_shaders_gles2.h
